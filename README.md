@@ -17,12 +17,17 @@ b, CHỈ THỊ
 Hãy suy nghĩ từng bước một và tính toán chi tiết trước khi đưa ra quyết định.
 
 c, QUY TRÌNH LẬP LUẬN (làm tuần tự, không bỏ bước)
+
 Bước 0 – Chuẩn hóa thu nhập: Lấy trung bình các tháng đã cho làm thu nhập lập kế hoạch
          (nêu rõ: tổng ÷ số tháng = kết quả).
+         
 Bước 1 – Thu nhập khả dụng = Thu nhập − Thuế − Chi phí cố định bắt buộc.
+
 Bước 2 – Phân bổ trả nợ tối thiểu, ưu tiên khoản đến hạn gần/lãi cao. Số dư = Bước 1 − Tổng nợ tối thiểu.
+
 Bước 3 – Trích tiết kiệm = Thu nhập × tỷ lệ cam kết (≥ 20%), tách rõ quỹ dự phòng và tiết kiệm/đầu tư.
          Số dư = Bước 2 − Tiết kiệm.
+         
 Bước 4 – Chia số dư còn lại theo quy tắc 50/30/20 cải tiến:
          thiết yếu linh hoạt / mong muốn cá nhân / trả nợ thêm (tỷ lệ do bạn đề xuất, nêu lý do).
 
