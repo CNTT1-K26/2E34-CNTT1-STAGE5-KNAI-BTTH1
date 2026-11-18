@@ -18,26 +18,26 @@ Hãy suy nghĩ từng bước một và tính toán chi tiết trước khi đư
 
 c, QUY TRÌNH LẬP LUẬN (làm tuần tự, không bỏ bước)
 
-Bước 0 – Chuẩn hóa thu nhập: Lấy trung bình các tháng đã cho làm thu nhập lập kế hoạch
+- Bước 0 – Chuẩn hóa thu nhập: Lấy trung bình các tháng đã cho làm thu nhập lập kế hoạch
          (nêu rõ: tổng ÷ số tháng = kết quả).
          
-Bước 1 – Thu nhập khả dụng = Thu nhập − Thuế − Chi phí cố định bắt buộc.
+- Bước 1 – Thu nhập khả dụng = Thu nhập − Thuế − Chi phí cố định bắt buộc.
 
-Bước 2 – Phân bổ trả nợ tối thiểu, ưu tiên khoản đến hạn gần/lãi cao. Số dư = Bước 1 − Tổng nợ tối thiểu.
+- Bước 2 – Phân bổ trả nợ tối thiểu, ưu tiên khoản đến hạn gần/lãi cao. Số dư = Bước 1 − Tổng nợ tối thiểu.
 
-Bước 3 – Trích tiết kiệm = Thu nhập × tỷ lệ cam kết (≥ 20%), tách rõ quỹ dự phòng và tiết kiệm/đầu tư.
+- Bước 3 – Trích tiết kiệm = Thu nhập × tỷ lệ cam kết (≥ 20%), tách rõ quỹ dự phòng và tiết kiệm/đầu tư.
          Số dư = Bước 2 − Tiết kiệm.
          
-Bước 4 – Chia số dư còn lại theo quy tắc 50/30/20 cải tiến:
+- Bước 4 – Chia số dư còn lại theo quy tắc 50/30/20 cải tiến:
          thiết yếu linh hoạt / mong muốn cá nhân / trả nợ thêm (tỷ lệ do bạn đề xuất, nêu lý do).
 
 d, RÀNG BUỘC BẮT BUỘC
-1. Viết đầy đủ từng phép tính dạng: "A + B − C = kết quả". Không nhảy cóc.
-2. Sau mỗi bước, ghi "Số dư còn lại: ..." để kiểm soát dòng tiền.
-3. Tỷ lệ % tính trên thu nhập lập kế hoạch (Bước 0), làm tròn 2 chữ số thập phân; tổng phải đúng 100,00%.
+- 1. Viết đầy đủ từng phép tính dạng: "A + B − C = kết quả". Không nhảy cóc.
+- 2. Sau mỗi bước, ghi "Số dư còn lại: ..." để kiểm soát dòng tiền.
+- 3. Tỷ lệ % tính trên thu nhập lập kế hoạch (Bước 0), làm tròn 2 chữ số thập phân; tổng phải đúng 100,00%.
    Nếu lệch do làm tròn, điều chỉnh vào hạng mục "Mong muốn" và nêu rõ.
-4. Nếu số dư ở bất kỳ bước nào < 0: DỪNG, báo thâm hụt và đề xuất cách cắt giảm trước khi đi tiếp.
-5. Không dùng code, chỉ dùng suy luận bằng văn bản.
+- 4. Nếu số dư ở bất kỳ bước nào < 0: DỪNG, báo thâm hụt và đề xuất cách cắt giảm trước khi đi tiếp.
+- 5. Không dùng code, chỉ dùng suy luận bằng văn bản.
 
 e, BƯỚC KIỂM TRA CUỐI (bắt buộc)
 - Cộng lại toàn bộ hạng mục, so với thu nhập lập kế hoạch (phải bằng nhau).
@@ -56,12 +56,12 @@ Dòng cuối là "TỔNG" = 100,00%.
 
 Đầu vào: Thu nhập 3 tháng: 18.000.000 / 24.000.000 / 21.000.000. Thuế 5%. Chi phí cố định: thuê nhà 5.000.000, điện nước-internet 1.200.000, đi lại 1.500.000, bảo hiểm 800.000. Nợ: thẻ tín dụng tối thiểu 1.200.000, vay trả góp 2.000.000. Tiết kiệm ≥ 20%.
 
-Phần 1: Nhật ký suy luận
+* Phần 1: Nhật ký suy luận
 
 Bước 0 – Thu nhập lập kế hoạch
 (18.000.000 + 24.000.000 + 21.000.000) ÷ 3 = 63.000.000 ÷ 3 = 21.000.000
 
-Bước 1 – Thu nhập khả dụng
+ Bước 1 – Thu nhập khả dụng
 
 Thuế: 21.000.000 × 5% = 1.050.000
 Chi phí cố định: 5.000.000 + 1.200.000 + 1.500.000 + 800.000 = 8.500.000
